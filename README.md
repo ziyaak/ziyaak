@@ -1,6 +1,6 @@
 [![MasterHead](https://fiverrbox.com/wp-content/uploads/2023/01/web-developer-3.jpeg)
 <h1 align="center">Hi 👋, I'm Ziya</h1>
-<h3 align="center">A passionate frontend developer from Azerbajan</h3>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **React**
 
